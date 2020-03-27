@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Me ayuda a ver los cambios hechos en el archivo nuevo comparandolo con el viajo, permitiendo ver los errores ortográficos, entre otras cosas.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Esto me convierte en un programador más eficiente porque si 
+    después de haber hecho un código bastante complejo en 
+    varios días y me resulta un error que desconozco, pues es 
+    más fácil revisarlo si tengo versiones anteriores para así 
+    ver el paso a paso de lo que iba escribiendo. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+	Pros: Que al yo guardar manualmente las versiones del 
+	código que voy escribiendo, me permite hacerlo cuando hago
+	cambios importantes y poder destacar esos cambios para así saber qué hice en cada versión de mi archivo.
+
+	Contras: El proceso de crear un código resulta más tardío por tener que estar guardando versiones específicas del 
+	archivo y nombrándolas.     
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Porque eso facilita el saber qué cambios se hicieron en cada archivo para no estar realizando un commit por cambio. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+   	Haciendo uso del comando git log puedo ver los diferentes 
+   	commit que se han hecho sobre el archivo y con el comando 
+   	git diff puedo ver las diferencias entre cada uno para 
+   	poder ir haciendo la revisión y hallar errores de forma más 
+   	eficiente. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Me ayuda a sentirme más seguro de hacer cambios ya que, en 
+    caso de que el cambio que realicé afecto al programa en que 
+    ya no compila, puedo regresar fácilmente a la versión 
+    anterior al cambio. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Para aprender a trabajar en equipos de desarrollo. 
+    
