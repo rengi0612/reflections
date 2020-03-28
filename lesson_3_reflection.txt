@@ -7,3 +7,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	Porque al hacerlo de forma manual puedo subir todos los commits que haga cuando termino una sesión de trabajo,
 	en vez de estar subiendo uno por uno.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Un fork es una copia de un repositorio que se hace desde un github a otro. 
+	Un clon es una copia de un repositorio en github a uno local pero que están entrelazados
+	Un branch es una raíz de una historia de commits para hacer cambios sin afectar la raíz principal(master).
+	
